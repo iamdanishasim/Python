@@ -1,4 +1,5 @@
-# Practicing args and kwargs 
+#Practice
+# Practicing Args and Kwargs 
 def Decorate(func):
     def wrapper(num):
         print("Welcome Stranger")
